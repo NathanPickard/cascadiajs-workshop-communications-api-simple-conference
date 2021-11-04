@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'https://dolby-cascadiajs.netlify.app/';
+const tokenServerURL = 'https://dolby-cascadiajs.netlify.app/api/token-generator';
 
 
 
